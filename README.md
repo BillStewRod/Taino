@@ -1,4 +1,4 @@
-# Taino Heritage Website
+# [Taino Heritage Website](https://billstewrod.github.io/Taino/)
 
 This website is dedicated to sharing information about the indigenous Taino people from the Caribbean. It serves as an educational resource to highlight the rich history, culture, and contributions of the Taino civilization.
 
