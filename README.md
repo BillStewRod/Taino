@@ -2,6 +2,8 @@
 
 This website is dedicated to sharing information about the indigenous Taino people from the Caribbean. It serves as an educational resource to highlight the rich history, culture, and contributions of the Taino civilization.
 
+![Preview](preview.png)
+
 ## Table of Contents
 
 - [Overview](#overview)
