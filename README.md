@@ -77,5 +77,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-Information about the Taino people was sourced from the [Taino Museum](https://tainomuseum.org).
+Information about the Taino people was sourced from the [Taino Museum](https://tainomuseum.org/taino/daily-life/).
 Images were generated using the ChatGPT Image Generator and edited using [GIMP](https://www.gimp.org).
